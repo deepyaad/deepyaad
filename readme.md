@@ -4,9 +4,9 @@ Hi! I’m Anissa — a data scientist, researcher, and founder deeply invested i
 
 ## 💡 Who I Am
 I'm pursuing my B.S. in Data Science at Northeastern University (Dec 2025), with a research + design portfolio spanning:
-- 🔬 **AI/ML Research** (Outlier Detection, Computer Vision, UX Research for AI Applications, Exploratory Data Analysis)
-- 🌍 **Human Centered Product Design** (Senate-backed IEP NLP Translator, Stanford TreeHacks, MIT Reality Hack, Data Story)
-- 🏆 **Award Winning Creative Technologist**: NCWIT Aspirations in Computing Finalist; Women Who Empower Semi-Finalist, Srinivasan Family Award, National Hackathon Champion
+- 🔬 **AI/ML Research**; Outlier Detection; Computer Vision; Exploratory Data Analysis; Statistical Modeling
+- 🌍 **Human Centered Product Design**: Senate-backed IEP NLP Translator; Stanford TreeHacks; MIT Reality Hack; UX Research for AI Applications
+- 🏆 **Award Winning Technologist**: NCWIT Aspirations in Computing Finalist; Women Who Empower Semi-Finalist; Srinivasan Family Award; National Hackathon Champion; MATLAB Responsible AI Hack Technical Award
 
 ---
 
