@@ -32,11 +32,3 @@ I’m currently:
 
 Whether you're here to collaborate, mentor, learn, or uplift — welcome.  
 Reach me at **[anissa.vaughnn@gmail.com](mailto:anissa.vaughnn@gmail.com)** or [LinkedIn](https://www.linkedin.com/in/anissavaughn/)  
-
----
-
-### ✨ Closing Note
-
-If you take anything from this page, let it be this:  
-**Technology should never ask us to abandon our humanity.**  
-Let’s build toward justice, joy, and survival — together.
