@@ -1,6 +1,6 @@
 # 🌱 Welcome to My Github Portfolio
 
-Hi! I’m Anissa — a data scientist, researcher, and founder deeply invested in building technologies that heal, empower, and transform. While I'm permanently locked out of my original GitHub of 5 years (RIP 😔), this new account will serve as my **living archive** of past work, current projects, and experiments in progress.
+Hi! I’m Ananda — a data scientist, researcher, and founder deeply invested in building technologies that heal, empower, and transform. While I'm permanently locked out of my original GitHub of 5 years (RIP 😔), this new account will serve as my **living archive** of past work, current projects, and experiments in progress.
 
 ## 💡 Who I Am
 I'm pursuing my B.S. in Data Science at Northeastern University (Dec 2025), with a research + design portfolio spanning:
@@ -31,4 +31,4 @@ I’m currently:
 ## 📬 Get in Touch
 
 Whether you're here to collaborate, mentor, learn, or uplift — welcome.  
-Reach me at **[anissa.vaughnn@gmail.com](mailto:anissa.vaughnn@gmail.com)** or [LinkedIn](https://www.linkedin.com/in/anissavaughn/)  
+Reach me at **[anissa.vaughnn@gmail.com](mailto:anissa.vaughnn@gmail.com)** or [LinkedIn](https://www.linkedin.com/in/anandæ/)  
