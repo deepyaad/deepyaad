@@ -20,7 +20,6 @@ I'm wrapping my B.S. in Data Science at Northeastern University where I develope
 ---
 
 ## What Have I Accomplished
-- 🌍 **Human Centered Product Design**: Senate-backed IEP NLP Translator; Stanford TreeHacks; MIT Reality Hack
 - 🏆 **Award Winning Technologist**:
   - NCWIT Aspirations in Computing Finalist
   - Women Who Empower Semi-Finalist
@@ -31,7 +30,10 @@ I'm wrapping my B.S. in Data Science at Northeastern University where I develope
   - NACME Scholar
   - Ujima Global Leaders Scholar
   - George T. Marvin Scholar
-
+- 🌍 **Human Centered Product Design**:
+  - Senate-backed IEP NLP Translator
+  - Stanford TreeHacks AI Legalese Translator
+  - MIT Reality Hack VR K-12 Educational Game
 ---
 
 ## 🚧 What's Here
