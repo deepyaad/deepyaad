@@ -5,21 +5,22 @@ While I'm permanently locked out of my original GitHub of 5 years (RIP 😔), th
 
 ---
 
-## 💡 Who I Am
-I'm wrapping my B.S. in Data Science at Northeastern University where I developed skills in:
-- 🧮 **analytics**: outlier detection, data exploration, time series, homoscedasticity
-- ♾️ **mathematics**: optimization, linear algebra, calculus, probability, statistics
-- 🎨 **design**: data visualization, ui design, ux research,
-- 👾 **machine learning**: computer vision, {un}supervised learning, deep learning, predictive models, prescriptive models
-- 📊 **data science**: manipulation, mining, wrangling
-- 🤖 **artificial intelligence**: agentic AI, reinforcement learning, large language models, natural language processing,
-- 🔬 **research**: experiment design, data collection, literature reviews
-- 🛠️ **data engineering**: storage, retrieval, infrastructure
-- 📱 **software engineering**: full stack web development, object oriented design
+## 🚧 What's Here
+
+This GitHub is in active reconstruction as I transition onto this new platform. Here's what I have so far:
+- 🧮 **analytics**: coming soon
+- ♾️ **mathematics**: coming soon
+- 🎨 **design**: [Data Storytelling of the Bible](https://github.com/deepyaad/bible-analysis)
+- 👾 **machine learning**: [Code all ML Algorithms From Scratch](https://github.com/deepyaad/ml-from-scratch)
+- 📊 **data science**: coming soon
+- 🤖 **artificial intelligence**: coming soon
+- 🔬 **research**: [Emotion Classification of fMRI Data](https://github.com/deepyaad/emotion-fmri-classification)
+- 🛠️ **data engineering**: coming soon
+- 📱 **software engineering**: Reproduction of Canvas LMS Site: [frontend](https://github.com/deepyaad/kambaz-react-web-app), [backend](https://github.com/deepyaad/kambaz-node-server-app)
 
 ---
 
-## What Have I Accomplished
+## 🙌🏽 What Have I Accomplished
 - 🏆 **Award Winning Technologist**:
   - NCWIT Aspirations in Computing Finalist
   - Women Who Empower Semi-Finalist
@@ -34,20 +35,6 @@ I'm wrapping my B.S. in Data Science at Northeastern University where I develope
   - Senate-backed IEP NLP Translator
   - Stanford TreeHacks AI Legalese Translator
   - MIT Reality Hack VR K-12 Educational Game
----
-
-## 🚧 What's Here
-
-This GitHub is in active reconstruction as I transition onto this new platform. Here's what I have so far:
-- 🧮 **analytics**: coming soon
-- ♾️ **mathematics**: coming soon
-- 🎨 **design**: [Data Storytelling of the Bible](https://github.com/deepyaad/bible-analysis)
-- 👾 **machine learning**: [Code all ML Algorithms From Scratch](https://github.com/deepyaad/ml-from-scratch)
-- 📊 **data science**: coming soon
-- 🤖 **artificial intelligence**: coming soon
-- 🔬 **research**: [Emotion Classification of fMRI Data](https://github.com/deepyaad/emotion-fmri-classification)
-- 🛠️ **data engineering**: coming soon
-- 📱 **software engineering**: Reproduction of Canvas LMS Site: [frontend](https://github.com/deepyaad/kambaz-react-web-app), [backend](https://github.com/deepyaad/kambaz-node-server-app)
 
 ---
 
