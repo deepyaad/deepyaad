@@ -8,6 +8,7 @@ While I'm permanently locked out of my original GitHub of 5 years (RIP 😔), th
 ## 🚧 What's Here
 
 This GitHub is in active reconstruction as I transition onto this new platform. Here's what I have so far:
+- 💼 **business intelligence**: coming soon
 - 🧮 **analytics**: coming soon
 - ♾️ **mathematics**: coming soon
 - 🎨 **design**: [Data Storytelling of the Bible](https://github.com/deepyaad/bible-analysis)
