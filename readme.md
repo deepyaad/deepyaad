@@ -15,7 +15,7 @@ This GitHub is in active reconstruction as I transition onto this new platform. 
 - 👾 **machine learning**: [Code all ML Algorithms From Scratch](https://github.com/deepyaad/ml-from-scratch)
 - 📊 **data science**: coming soon
 - 🤖 **artificial intelligence**: coming soon
-- 🔬 **research**: [Emotion Classification of fMRI Data](https://github.com/deepyaad/emotion-fmri-classification)
+- 🔬 **research**: [Emotion Classification of fMRI Data](https://github.com/deepyaad/emotion-fmri-classification), [Outlier Detection](https://github.com/deepyaad/outlier-detection)
 - 🛠️ **data engineering**: coming soon
 - 📱 **software engineering**: Reproduction of Canvas LMS Site: [frontend](https://github.com/deepyaad/kambaz-react-web-app), [backend](https://github.com/deepyaad/kambaz-node-server-app)
 
